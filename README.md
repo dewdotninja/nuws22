@@ -51,12 +51,6 @@ learning) และโมเดล RNN (Recurrent Neural Networks), GRU (Gated R
 
 
 <hr>
-### การดาวน์โหลด .ZIP
-
-ผู้เข้าอบรมหรือผู้สนใจทั่วไปสามารถดาวน์โหลดไฟล์ทั้งหมดในหน้านี้ได้โดยคลิกที่ปุ่ม [Code] สีเขียวด้านบนขวา และเลือก Download ZIP ดังแสดงในภาพ
-
-<img src="https://drive.google.com/uc?id=1MN-ZsN0TtzqcV5ad1hPrz3cvInyrSg7o" width=500 />
-
 
 ### อุปกรณ์ที่ใช้ในการอบรม
 
