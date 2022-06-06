@@ -101,4 +101,7 @@ learning) และโมเดล RNN (Recurrent Neural Networks), GRU (Gated R
 
 ### ซอฟต์แวร์และการติดตั้ง
 
+ผู้ฝึกอบรมสามารถเลือกติดตั้งซอฟต์แวร์ลงบนเครื่องตามคำแนะนำในภาคผนวก B ด้านล่าง หรือใช้ Google colab 
+
+<a href="https://github.com/dewdotninja/books/blob/main/th/anndl/appendixB.ipynb">ภาคผนวก B : การติดตั้งซอฟต์แวร์</a>
 
