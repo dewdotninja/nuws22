@@ -65,11 +65,29 @@ learning) และโมเดล RNN (Recurrent Neural Networks), GRU (Gated R
 * การทำเรกูลาไรเซชัน (regularizations) และดรอปเอาต์ (dropouts)
 * ตัวหาค่าเหมาะที่สุด (optimizers)
 * การทำกลุ่มให้เป็นบรรทัดฐาน (batch normalization)
+* ช่วงปฏิบัติ
 
 #### พุธ 15 พฤษภาคม 2565
 
+9 AM - 12 PM
+
 * การดำเนินการสังวัตนาการในการประมวลผลภาพ
 * พื้นฐานของโครงข่ายประสาทเทียมเชิงสังวัตนาการ (CNN : comvolutional neural networks)
+* ชั้นพูลลิง (pooling layer)
+* ตัวอย่างโมเดล CNN : LeNet-5, AlexNet, VGG-16, VGG-19, ResNets
+* โมเดลอินเซปชัน (inception model)
+* การถ่ายโอนการเรียนรู้ (transfer learning)
+* ช่วงปฏิบัติ
+
+1 - 4 PM
+
+* สถาปัตยกรรมโครงข่ายประสาทเทียมวกกลับ (RNN : recurrent neural networks)
+* โมเดล GRU (gated recurrent unit)
+* โมเดล LSTM (long short term memory)
+* องค์ประกอบข้อมูลอนุกรมเวลา
+* การพยากรณ์อนุกรมเวลา
+* ช่วงปฏิบัติ
+* สรุปการอบรมและตอบคำถาม
 
 
 <hr>
