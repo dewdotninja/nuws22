@@ -105,3 +105,9 @@ learning) และโมเดล RNN (Recurrent Neural Networks), GRU (Gated R
 
 <a href="https://github.com/dewdotninja/books/blob/main/th/anndl/appendixB.ipynb">ภาคผนวก B : การติดตั้งซอฟต์แวร์</a>
 
+### ลิงก์ภายนอก
+
+<ul>
+<li /><a href="https://github.com/amanchadha/coursera-deep-learning-specialization">Coursera Deep Learning Specialization</a>
+<li /><a href="https://github.com/lmoroney/dlaicourse">Laurence Moroney dlai course github</a>
+</ul>
