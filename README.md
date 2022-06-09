@@ -8,7 +8,7 @@
 <img align=left src="https://i.imgur.com/CzEUVpd.jpg" width=200 /> 
 <ul>
   <li /><b>ชื่อเรื่อง :</b> โครงข่ายประสาทเทียมและการเรียนรู้เชิงลึก (Artificial Neural Networks and Deep Learning)
-  <li /><b>วิทยากร :</b> ดร.วโรดม ตู้จินดา
+  <li /><b>วิทยากร :</b> ดร.วโรดม ตู้จินดา <img align=right src="https://drive.google.com/uc?id=1t6666zvVYo6I0fncdc_XN65Wxino_hTx" width=200 />
   <li /><b>สถานที่ :</b> ภาควิชาฟิสิกส์ คณะวิทยาศาสตร์ มหาวิทยาลัยนเรศวร
   <li /><b>วัน-เวลา :</b> 14 - 15 มิถุนายน 2565
 </ul>
