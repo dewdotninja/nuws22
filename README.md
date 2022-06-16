@@ -112,8 +112,3 @@ learning) และโมเดล RNN (Recurrent Neural Networks), GRU (Gated R
 <li /><a href="https://github.com/lmoroney/dlaicourse">Laurence Moroney dlai course github</a>
 </ul>
 
-### ลิงก์จาก google drive
-<ul>
-    <li /><a href="https://drive.google.com/drive/folders/1Q59m3dwZFlSdR-RjqynpXeAmaU4vMIAj">datasets</a>
-  <li /><a href="https://drive.google.com/drive/folders/16u6qkCrGrMRHEjGXLDD3iUxO4BV8QZ-i">Exercises</a>
-</ul>
